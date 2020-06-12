@@ -1,4 +1,4 @@
-# finace_py
+# finance_py
 Repository for finance and investment programs made in Python.
 
 ## List of Programs
